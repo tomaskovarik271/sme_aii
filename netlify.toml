@@ -1,2 +1,5 @@
+[build]
+  command = "echo Building..."
+
 [functions]
   directory = "netlify/functions/" 
