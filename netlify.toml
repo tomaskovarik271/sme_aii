@@ -1,5 +1,5 @@
-[build]
-  command = "echo Building..."
+[build.environment]
+  PYTHON_VERSION = "3.11"
 
 [functions]
   directory = "netlify/functions/" 
